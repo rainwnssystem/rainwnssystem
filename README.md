@@ -1,2 +1,2 @@
 <!-- ![](https://komarev.com/ghpvc/?username=rainwnssystem) -->
-![](https://ghview.dya.codes/view.png)
+![](https://ghview.dya.codes/rainwnssystem)
